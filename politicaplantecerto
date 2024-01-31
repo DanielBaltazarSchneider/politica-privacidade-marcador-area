@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - Plante Certo</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Política de Privacidade</h1>
+    </header>
+
+    <section>
+        <h2>1. Informações Coletadas</h2>
+        <p>O aplicativo "Plante Certo" coleta as seguintes informações:</p>
+        <ul>
+            <li>Dados pessoais, como nome e endereço de e-mail, quando fornecidos voluntariamente pelos usuários.</li>
+            <li>Dados de localização, se o usuário permitir o acesso a essa informação para funcionalidades específicas.</li>
+            <li>Informações sobre o dispositivo, incluindo tipo de dispositivo, sistema operacional e versão do aplicativo.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>2. Uso das Informações</h2>
+        <p>As informações coletadas são utilizadas para os seguintes propósitos:</p>
+        <ul>
+            <li>Personalizar a experiência do usuário e fornecer conteúdo relevante.</li>
+            <li>Melhorar e otimizar o desempenho do aplicativo.</li>
+            <li>Enviar atualizações, notificações e informações relevantes sobre o aplicativo.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. Compartilhamento de Informações</h2>
+        <p>As informações dos usuários não serão compartilhadas com terceiros, exceto nas seguintes circunstâncias:</p>
+        <ul>
+            <li>Com o consentimento explícito do usuário.</li>
+            <li>Para cumprir exigências legais ou proteger os direitos, propriedade ou segurança do aplicativo.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>4. Segurança</h2>
+        <p>O aplicativo implementa medidas de segurança para proteger as informações dos usuários. No entanto, nenhum método de transmissão pela internet ou armazenamento eletrônico é 100% seguro, e não podemos garantir a segurança absoluta dos dados.</p>
+    </section>
+
+    <section>
+        <h2>5. Alterações nesta Política</h2>
+        <p>Esta política de privacidade pode ser atualizada ocasionalmente para refletir mudanças no aplicativo ou em conformidade com as leis de privacidade. Recomendamos revisar periodicamente esta política para estar ciente de qualquer modificação.</p>
+    </section>
+
+    <footer>
+        <p>Esta política de privacidade foi atualizada em [data].</p>
+    </footer>
+
+</body>
+
+</html>
